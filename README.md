@@ -15,7 +15,7 @@ The following tabular reinforcement learning algorithms are supported for this g
 
 The image below shows an example of a policy learnt via Q-Learning for the 4 by 4 gridworld
 
-![Policy for 4 by 4 gridworld](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/4by4policy.png)
+<img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/4by4policy.png" width="200" />
 
 The following features are also supported for a custom N by M gridworld:
 
@@ -27,15 +27,19 @@ The following features are also supported for a custom N by M gridworld:
 
 The images below show the examples of a custom 10 by 10 gridworld & policy,
 
-![10 by 10 gridworld](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld_large.png)
-![Policy for 10 by 10 gridworld](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/10by10policy.png)
+<p float="left">
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld_large.png" width="400" hspace="40"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/10by10policy.png" width="400" >
+</p>
+
 The following post-processing plots can also be derived
 
-![Convergence of Q from start of training](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QinitConvergence.png)
+<p float="left">
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QinitConvergence.png" width="300" hspace="10"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QmovingaverageConvergence.png" width="300" hspace="10"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/percentagegoalreached.png" width="300" >
+</p>
 
-![Moving average convergence for Q](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QmovingaverageConvergence.png)
-
-![Percentage Goal reached throughout training](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/percentagegoalreached.png)
 
 All instructions for using the code can be found in the [.IPYNB file](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/FrozenLake_RL.ipynb) in this repository
 
