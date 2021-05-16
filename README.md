@@ -28,16 +28,16 @@ The following features are also supported for a custom N by M gridworld:
 The images below show the examples of a custom 10 by 10 gridworld & policy,
 
 <p float="left">
-    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld_large.png" width="400" hspace="40"/>
-    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/10by10policy.png" width="400" >
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld_large.png" width="300" hspace="40"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/10by10policy.png" width="300" >
 </p>
 
 The following post-processing plots can also be derived
 
 <p float="left">
-    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QinitConvergence.png" width="300" hspace="10"/>
-    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QmovingaverageConvergence.png" width="300" hspace="10"/>
-    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/percentagegoalreached.png" width="300" >
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QinitConvergence.png" width="200" hspace="10"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/QmovingaverageConvergence.png" width="200" hspace="10"/>
+    <img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/percentagegoalreached.png" width="200" >
 </p>
 
 
