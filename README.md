@@ -2,7 +2,7 @@
 
 This project provides the code for a Reinforcement Learning agent to learn to navigate any N by M gridworld. The gridworld consists empty slot where an agent can go to, and holes which terminate the path of the agent. The aim is to reach the goal without falling into any holes. Any attempt to leave the gridworld border will force the agent to stay in the same spot. The state transition function for all states is deterministic and follows the agent's intended movement (i.e. if the agent wishes to move left, it will move left with 100% probability). The image below shows an example of a 4 by 4 gridworld.
 
-![4 by 4 gridworld](https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld.png)
+<img src="https://github.com/arijitnoobstar/FrozenLake_RL/blob/main/gridworld.png" width="200" />
 
 The following tabular reinforcement learning algorithms are supported for this gridworld:
 
